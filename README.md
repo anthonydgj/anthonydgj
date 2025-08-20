@@ -1,4 +1,4 @@
-Software developer with a strong interest in GIS.
+Software development engineer with interests in GIS, full-stack development, and programming languages.
 
 <!--
 **anthonydgj/anthonydgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
